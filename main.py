@@ -1,6 +1,10 @@
 import random
 
 # develope by piyushSoni
+
+
+
+#rock hand
 rock = '''
     _______
 ---'   ____)
