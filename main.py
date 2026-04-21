@@ -3,7 +3,6 @@ import random
 # develope by piyushSoni
 
 
-
 #rock hand
 rock = '''
     _______
