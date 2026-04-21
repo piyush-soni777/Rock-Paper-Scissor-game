@@ -69,7 +69,7 @@ else:
         print("It's a draw!")
       else:
         print("You win!")
-
+          
     elif computers_choice == 2:
       print(f"The computer chose: Scissors {scissors}")
       if choice == 1:
