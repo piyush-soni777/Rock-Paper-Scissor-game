@@ -38,6 +38,7 @@ scissors = '''
 choice = (input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors\n0/1/2:"))
 computers_choice = random.randint(0,2)
 
+#if you enter invalid number
 if not choice.isdigit():
   print("You've entered an invalid value, try again and choose a number between 0-2.")
 else:
