@@ -1,6 +1,6 @@
 import random
 
-
+# develope by piyushSoni
 rock = '''
     _______
 ---'   ____)
